@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajath Acharya</h1>
+
+
 <h3 align="center">👨🏻‍💻 Code.Fail.Fix.Learn.Repeat.</h3>
 
 
