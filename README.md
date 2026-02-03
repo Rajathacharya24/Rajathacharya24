@@ -26,24 +26,7 @@ Continuously improving my skills and exploring new tools.
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajathacharya24&theme=flat&no-frame=true" />
-</p>
 
----
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rajathacharya24&theme=default&hide_border=true" />
-</p>
-
----
-
-### 🧠 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajathacharya24&layout=compact" />
-</p>
 
 ---
 
