@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" />
 </div>
 
-<h3 align="center">👋 Hi, I'm Rajath BN</h3>
+<h3 align="center">👋        Hi, I'm Rajath BN</h3>
 
 <p align="center">
   <sub>🎓 BCA Student | 💻 Aspiring Software / Java Developer | 🚀 Learning by building real-world projects</sub>
