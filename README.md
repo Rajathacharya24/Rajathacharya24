@@ -14,11 +14,13 @@
 
 ### 🧑‍💻 About Me
 <sub style="font-size:18px;">
-BCA student passionate about software development.<br>
-focus on learning through real-world projects, mainly in Java and backend technologies.<br>
-Continuously improving my skills and exploring new tools.
+  <ul>
+    
+<li>BCA student passionate about software development.<br></li>
+<li></li>focus on learning through real-world projects, mainly in Java and backend technologies.<br></li>
+<li></li>Continuously improving my skills and exploring new tools.</li>
 </sub>
-
+</ul>
 ---
 
 ### 🛠️ Skills
