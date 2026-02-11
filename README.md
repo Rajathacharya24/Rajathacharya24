@@ -5,13 +5,15 @@
 <h3 align="center">👋        Hi, I'm Rajath BN</h3>
 
 <p align="center">
-  <sub>🎓 BCA Student | 💻 Aspiring Software / Java Developer | 🚀 Learning by building real-world projects</sub>
+<sub style="font-size:17px;">
+🎓 BCA Student | 💻 Aspiring Software / Java Developer | 🚀 Learning by building real-world projects
+</sub>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-<sub>
+<sub style="font-size:17px;">
 BCA student passionate about software development.<br>
 focus on learning through real-world projects, mainly in Java and backend technologies.<br>
 Continuously improving my skills and exploring new tools.
