@@ -22,14 +22,6 @@
 
 </div>
 
----
-
-<
-
-
-
----
-
 <div align="center">
 
 <h2 align="center">🛠️ Skills & Tech Stack</h2>
