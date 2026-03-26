@@ -24,13 +24,9 @@
 
 ---
 
-<div align="center">
+<
 
-<h2 align="center">🧑‍💻 About Me</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&pause=1000&color=CCCCCC&center=true&vCenter=true&multiline=true&width=750&height=120&lines=🎓+BCA+student+passionate+about+software+development;💻+Building+real-world+projects+with+Java+%26+backend+tech;🌱+Exploring+modern+tools%2C+frameworks+%26+clean+architecture;🎯+Goal%3A+Land+a+Software+%2F+Java+Developer+role" alt="About Me" />
-
-</div>
 
 ---
 
