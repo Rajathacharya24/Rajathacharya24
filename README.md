@@ -79,6 +79,6 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=9999&color=666666&center=true&vCenter=true&width=650&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+—+John+Johnson" alt="Quote" />
+
 
 </div>
