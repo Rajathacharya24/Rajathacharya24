@@ -64,22 +64,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-<h2 align="center">🎯 Currently Working On</h2>
-
-| Status | Focus |
-|:------:|:-----:|
-| 🟢 Active | Building Spring Boot REST APIs |
-| 🟡 Learning | Database design with Oracle & MySQL |
-| 🔵 Exploring | Full-stack integration & System Design |
-| 🟣 Goal | Securing first Software Developer role |
-
-</div>
-
----
 
 <div align="center">
 
