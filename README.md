@@ -4,9 +4,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi+There!+I'm+Rajath+BN+👋" alt="Name Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&pause=1200&color=AAAAAA&center=true&vCenter=true&width=700&lines=🎓+BCA+Student+%40+Bengaluru;💻+Aspiring+Software+%2F+Java+Developer;🚀+Learning+by+Building+Real-World+Projects" alt="Subtitle" />
+
+
 
 <br/>
 
