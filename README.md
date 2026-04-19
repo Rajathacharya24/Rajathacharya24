@@ -58,11 +58,6 @@
 
 <div align="center">
 
-<h2 align="center">📈 Contribution Graph</h2>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajathacharya24&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 
 <div align="center">
