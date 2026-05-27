@@ -4,11 +4,9 @@
 
 <br/>
 
+<h1>Hi, I'm Rajath Acharya 👋</h1>
 
-
-
-
-<br/>
+<p><b>Java Backend Developer</b> · Spring Boot · Spring AI · GenAI</p>
 
 <a href="https://linkedin.com/in/Rajathbn">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,9 +20,11 @@
 
 </div>
 
-<div align="center">
+---
 
-<h2 align="center">🛠️ Skills & Tech Stack</h2>
+## 🛠️ Tech Stack
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,mysql,oracle,idea,vscode,git,github&perline=6" />
 
@@ -32,45 +32,28 @@
 
 ---
 
+## 🔥 Daily Streak
+
 <div align="center">
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajathacharya24&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="42%"/>
+<a href="https://github.com/Rajathacharya24">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajathacharya24&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
+</a>
 
 </div>
 
 ---
 
-<div align="center">
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rajathacharya24&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" />
-
-</div>
-
----
+## 🌐 Connect With Me
 
 <div align="center">
-
-
-
-<div align="center">
-
-<h2 align="center">🌐 Connect With Me</h2>
 
 <a href="https://linkedin.com/in/Rajathbn">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/Rajathacharya24">
   <img src="https://img.shields.io/badge/GitHub-Follow_Me!-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br/><br/>
-
-
 
 </div>
