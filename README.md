@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=160&section=header&text=Rajath%20Acharya&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%C2%B7%20Spring%20Boot%20%C2%B7%20AI%20Integration&descAlignY=58&descSize=14&fontFamily=Poppins"/>
+
 
 I build scalable backend systems using Java, Spring, and modern AI tools.
 
