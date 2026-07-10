@@ -26,7 +26,7 @@ I build scalable backend systems using Java, Spring, and modern AI tools.
 class Developer {
     name        = "Rajath Acharya";
     role        = "Java Backend Developer";
-    stack       = ["Java", "Spring Boot", "Spring AI", "Kafka", "MySQL"];
+    stack       = ["Java", "Spring Boot", "Spring AI", "MySQL"];
     focus       = "Scalable backend systems & AI-powered applications";
     currentlyOn = "FinSight AI";
 }
