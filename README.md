@@ -11,10 +11,6 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Today-2026--08--27-0d1117?style=for-the-badge&logo=github&labelColor=161b22&color=f0883e" alt="Current Date" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajathacharya24&theme=github-dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=f0883e&fire=f0883e&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=f0883e&sideLabels=e6edf3&dates=58a6ff" alt="Contribution Streak" width="760" />
 </p>
 
