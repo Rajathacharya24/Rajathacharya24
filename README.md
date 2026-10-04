@@ -25,7 +25,7 @@
 <h2 align="center">🔥 GitHub Streak Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajathacharya24&theme=github_dark&hide_border=true&border_radius=8" alt="GitHub Streak Stats" width="760" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajathacharya24&theme=github_dark&hide_border=true&border_radius=8&timezone=Asia/Kolkata" alt="GitHub Streak Stats" width="760" />
 </p>
 
 <br />
