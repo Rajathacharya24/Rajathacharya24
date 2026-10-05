@@ -18,3 +18,11 @@
   </a>
 </div>
 
+<br />
+
+<h2 align="center">📈 GitHub Commit Streak</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajathacharya24&theme=github_dark&hide_border=true&border_radius=8&locale=en&ring_color=f0883e&fire_color=f0883e&background=0d1117" alt="GitHub Commit Streak" width="560" />
+</p>
+
