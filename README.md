@@ -23,12 +23,12 @@
 <h2 align="center">📈 GitHub Commit Streak & Stats</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rajathacharya24&theme=github_dark&hide_border=true&border_radius=8&locale=en&timezone=Asia/Kolkata&ring_color=f0883e&fire_color=f0883e&background=0d1117" alt="GitHub Commit Streak" width="560" />
+  <img src="https://streak-stats.demolab.com/?user=Rajathacharya24&theme=github_dark&hide_border=true&border_radius=8&locale=en&ring=f0883e&fire=f0883e&background=0d1117" alt="GitHub Commit Streak" width="560" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajathacharya24&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true&title_color=f0883e&icon_color=58a6ff&text_color=e6edf3&bg_color=0d1117" alt="GitHub Stats" width="560" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajathacharya24&show_icons=true&theme=github_dark&hide_border=true&title_color=f0883e&icon_color=58a6ff&text_color=e6edf3&bg_color=0d1117" alt="GitHub Stats" width="560" />
 </p>
 
