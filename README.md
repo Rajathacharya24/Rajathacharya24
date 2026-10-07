@@ -20,15 +20,23 @@
 
 <br />
 
-<h2 align="center">📈 GitHub Commit Streak & Stats</h2>
+<h2 align="center">⚡ GitHub Analytics & Activity</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rajathacharya24&theme=github_dark&hide_border=true&border_radius=8&locale=en&ring=f0883e&fire=f0883e&background=0d1117" alt="GitHub Commit Streak" width="560" />
+  <a href="https://github.com/Rajathacharya24">
+    <img src="https://streak-stats.demolab.com/?user=Rajathacharya24&count_private=true&theme=github_dark&hide_border=true&border_radius=8&locale=en&ring=f0883e&fire=f0883e&currStreakNum=f0883e&sideNums=e6edf3&sideTitle=58a6ff&dates=8b949e&background=0d1117" alt="GitHub Commit Streak" height="192" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Rajathacharya24">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rajathacharya24&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&title_color=f0883e&icon_color=58a6ff&text_color=e6edf3&bg_color=0d1117&border_radius=8" alt="GitHub Stats" height="192" />
+  </a>
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajathacharya24&show_icons=true&theme=github_dark&hide_border=true&title_color=f0883e&icon_color=58a6ff&text_color=e6edf3&bg_color=0d1117" alt="GitHub Stats" width="560" />
+  <a href="https://github.com/Rajathacharya24">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajathacharya24&layout=compact&count_private=true&theme=github_dark&hide_border=true&title_color=f0883e&icon_color=58a6ff&text_color=e6edf3&bg_color=0d1117&border_radius=8&langs_count=8" alt="Top Languages" height="165" />
+  </a>
 </p>
 
